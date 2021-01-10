@@ -1,7 +1,0 @@
-#Mon Jan 11 03:46:46 IST 2021
-base.0=/home/rajjaz/Documents/dish/aws-sdk-android-samples/AmazonKinesisVideoDemoApp/build/intermediates/transforms/dexMerger/debug/0
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/home/rajjaz/Documents/dish/aws-sdk-android-samples/AmazonKinesisVideoDemoApp/build/intermediates/transforms/dexMerger/debug/1
